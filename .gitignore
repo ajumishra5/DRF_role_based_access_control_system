@@ -1,0 +1,14 @@
+#python 
+__pycache__/
+*.pyc  
+
+#virtual environment
+venv/
+
+#Django
+db.sqlite3
+.env
+
+#os
+.DS_Store
+Thumbs.db
